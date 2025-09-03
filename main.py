@@ -1,7 +1,7 @@
 import requests
 import time
 
-url = "https://visitor-badge.laobi.icu/badge?page_id=gcarlo11.gcarlo11"
+url = "https://visitor-badge.laobi.icu/badge?page_id=gcarlo11.gcarlo11" # ganti dengan URL target
 
 total_hits = 1000   # berapa kali mau hit
 delay = 0.1         # jeda antar hit (detik)
